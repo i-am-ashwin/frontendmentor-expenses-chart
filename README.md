@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/i-am-ashwin/frontendmentor-expenses-chart](https://github.com/i-am-ashwin/frontendmentor-expenses-chart)
+- Live Site URL: [https://frontendmentor-expenses-chart.vercel.app/](https://frontendmentor-expenses-chart.vercel.app/)
 
 
 ### Built with
